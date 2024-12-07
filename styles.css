@@ -1,0 +1,28 @@
+body{
+  padding: 25px;
+  background-color: beige;
+}
+.title {
+  font-family: "Jaro";
+	color: brown;
+	text-align: center;
+	font-size: 100;
+}
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.paragraph {
+  font-family: "Jaro";
+	color: brown;
+	text-align: center;
+	font-size: 100;
+}
+.link {
+  font-family: "Jaro";
+	color: brown;
+	text-align: center;
+	font-size: 100;
+}
